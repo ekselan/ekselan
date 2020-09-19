@@ -4,7 +4,7 @@ Thanks for visiting! I'm a data scientist with a passion for data and software e
 
 Here are some things about me:
 
-- 🔭 I’m currently working on ... [a city-comparison tool application](https://ds.citrics.dev)
+- 🔭 I’m currently working on ... [a city-comparison tool](https://ds.citrics.dev)
 - 🌱 I’m currently learning ... AWS database management and deployment
 - 👯 I’m looking to collaborate on ... fantasy football
 - 🤔 I’m looking for help with ... time-series modeling and R
