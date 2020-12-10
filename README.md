@@ -5,7 +5,7 @@ Thanks for visiting! I'm a data scientist with a passion for data and software e
 Here are some things about me:
 
 - 🔭 I’m currently working on ... a machine learning model for use in daily fantasy football! (private)
-- 🌱 I’m currently learning ... AWS database management and deployment
+- 🌱 I’m currently learning ... how to create personalized, advanced metrics for dfs analysis
 - 👯 I’m looking to collaborate on ... projects that involve data engineering or predictive modeling
 - 🤔 I’m looking for help with ... time-series modeling and R
 - 💬 Ask me about ... ETL pipelines, NLP techniques, ML algos, and daily fantasy sports
