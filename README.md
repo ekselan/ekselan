@@ -10,4 +10,4 @@ Here are some things about me:
 - 🤔 I’m looking for help with ... time-series modeling and R
 - 💬 Ask me about ... ETL pipelines, NLP techniques, ML algos, and daily fantasy sports
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I'm a fantasy sports nerd and a lover of cinema!
+- ⚡ Fun fact: ... I'm a fantasy sports nerd, lover of cinema and I love working with clients and customers!
